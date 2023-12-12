@@ -1,0 +1,39 @@
+1	Allergic asthma
+2	Allergic sensitization
+3	Allergy
+4	Asthma
+5	Atopic dermatitis
+6	Atopic sensitisation
+7	Atopy
+8	Bacterial Vaginosis
+9	Clostridium difficile infection(CDI)
+10	Colon cancer
+11	Colorectal carcinoma
+12	Constipation Irritable bowel syndrome(IBS)
+13	COPD
+14	Crohn's disease(CD)
+15	Cystic fibrosis
+16	Diarrhea Irritable bowel syndrome(IBS)
+17	Eczema
+18	Gastric and duodenal ulcer
+19	Gastro-oesophageal reflux
+20	Guttate psoriasis
+21	Ileal Crohn's disease(CD)
+22	Infectious colitis
+23	Inflammatory bowel disease(IBD)
+24	Irritable bowel syndrome(IBS)
+25	Kidney stones
+26	Liver cirrhosis
+27	Necrotizing Enterocolitis
+28	New-onset untreated rheumatoid arthrits
+29	Obesity
+30	Periodontal
+31	Psoriasis
+32	Recurrent wheeze
+33	Rheumatoid arthrits
+34	Skin and mucosal infections
+35	Systemic inflammatory response syndrome
+36	Type 1 diabetes
+37	Type 2 diabetes
+38	Ulcerative colitis
+39	Whipple's disease
